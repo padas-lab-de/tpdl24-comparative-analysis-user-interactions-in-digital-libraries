@@ -6,9 +6,9 @@ Source code for our paper :
 
 ## Abstract
 
-```
+
 The scarcity of public datasets with detailed user interaction data in digital libraries underscores a significant research challenge. The complexity of effectively anonymizing such data without losing its utility further exacerbates this issue. This study conducts a comparative analysis of two datasets: EconBiz, a private dataset, and SUSS, a publicly available dataset, to investigate the differences in the granularity of user logs between them. The findings reveal that while EconBiz and SUSS share some similar patterns, EconBiz provides a more nuanced view of diverse user interactions compared to SUSS. These results emphasize the need for enhancing public datasets to maintain their value for research and real-world applications. Moreover, this paper briefly explores the potential of using few-shot prompting with large language models (LLMs) to simulate richer user interaction data while preserving user anonymity, thereby extending the utility of public datasets like SUSS. Addressing these issues is crucial for understanding the limitations of public datasets in reflecting real-world user behavior and proposing methods to mitigate these challenges, ultimately facilitating the development of more personalized and responsive digital library services.
-```
+
 
 
 ## Repository Structure

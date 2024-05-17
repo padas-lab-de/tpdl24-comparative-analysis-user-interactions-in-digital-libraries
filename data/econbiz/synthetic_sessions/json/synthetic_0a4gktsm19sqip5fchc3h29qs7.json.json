@@ -1,0 +1,158 @@
+{
+    "session_length": 59.0,
+    "user_id": -1,
+    "start_date": "2024-05-16 20:09:59",
+    "end_date": "2024-05-16 20:10:58",
+    "actions": [
+        {
+            "timestamp": "2024-05-16 20:10:01",
+            "action_type": "search",
+            "action_label": "submit",
+            "params": {
+                "searchterm_1": "Vergleich der Lebensqualit\u00e4t in st\u00e4dtischen und l\u00e4ndlichen Gebieten"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:04",
+            "action_type": "view_record",
+            "action_label": "click",
+            "params": {
+                "docid": "10003580217"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:09",
+            "action_type": "view_description",
+            "action_label": "click",
+            "params": {
+                "docid": "10003580217"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:11",
+            "action_type": "view_references",
+            "action_label": "click",
+            "params": {
+                "docid": "10003580217"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:15",
+            "action_type": "goto_local_availability",
+            "action_label": "click",
+            "params": {
+                "docid": "10003580217"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:18",
+            "action_type": "search_change_sorting",
+            "action_label": "click",
+            "params": {
+                "sort_param": "relevance"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:20",
+            "action_type": "search_change_paging",
+            "action_label": "click",
+            "params": {
+                "page_param": "2"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:23",
+            "action_type": "view_record",
+            "action_label": "click",
+            "params": {
+                "docid": "10011507682"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:28",
+            "action_type": "view_description",
+            "action_label": "click",
+            "params": {
+                "docid": "10011507682"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:30",
+            "action_type": "view_references",
+            "action_label": "click",
+            "params": {
+                "docid": "10011507682"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:34",
+            "action_type": "goto_local_availability",
+            "action_label": "click",
+            "params": {
+                "docid": "10011507682"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:37",
+            "action_type": "export_cite",
+            "action_label": "click",
+            "params": {
+                "docid": "10011507682"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:39",
+            "action_type": "goto_home",
+            "action_label": "click",
+            "params": {}
+        },
+        {
+            "timestamp": "2024-05-16 20:10:42",
+            "action_type": "search",
+            "action_label": "submit",
+            "params": {
+                "searchterm_1": "Lebensqualit\u00e4t in l\u00e4ndlichen Gebieten"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:47",
+            "action_type": "view_record",
+            "action_label": "click",
+            "params": {
+                "docid": "10003428003"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:49",
+            "action_type": "view_description",
+            "action_label": "click",
+            "params": {
+                "docid": "10003428003"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:53",
+            "action_type": "view_references",
+            "action_label": "click",
+            "params": {
+                "docid": "10003428003"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:56",
+            "action_type": "goto_local_availability",
+            "action_label": "click",
+            "params": {
+                "docid": "10003428003"
+            }
+        },
+        {
+            "timestamp": "2024-05-16 20:10:58",
+            "action_type": "export_cite",
+            "action_label": "click",
+            "params": {
+                "docid": "10003428003"
+            }
+        }
+    ]
+}

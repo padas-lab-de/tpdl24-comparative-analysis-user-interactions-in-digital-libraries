@@ -1,0 +1,34 @@
+Session Metrics Summary:
+========================
+Average Session Duration (hh:mm): 07:14
+
+Session Duration (hh:mm):
+  Mean    = 434.34
+  Median  = 1.23
+  SD      = 6194.09
+
+Query Count:
+  Mean    = 5.34
+  Median  = 1.00
+  SD      = 22.50
+
+Query Length (#chars):
+  Mean    = 26.95
+  Median  = 15.00
+  SD      = 77.17
+
+Query Length (#terms):
+  Mean    = 1.70
+  Median  = 1.00
+  SD      = 4.24
+
+Term Diversity:
+  Mean    = 0.67
+  Median  = 0.00
+  SD      = 1.35
+
+Search Operators Share:
+  Mean    = 1.43
+  Median  = 0.00
+  SD      = 6.82
+
